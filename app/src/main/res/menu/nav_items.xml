@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group><item
+        android:id="@+id/category"
+        android:title="Category" /></group>
+    <group> <item
+        android:id="@+id/handfront"
+        android:title="HandFront" /></group>
+    <group> <item
+        android:id="@+id/handback"
+        android:title="HandBack" /></group>
+    <group><item
+        android:id="@+id/foot"
+        android:title="Foot" /></group>
+    <group> <item
+        android:id="@+id/tattoo"
+        android:title="Tattoo" /></group>
+    <group><item
+        android:id="@+id/share"
+        android:title="Share App"/>
+    </group>
+    <group><item
+        android:id="@+id/rate"
+        android:title="Rate Us"/>
+    </group>
+
+
+</menu>
